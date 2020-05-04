@@ -10,6 +10,7 @@ export class App extends Component {
       <View>
         <ContactsScreen/>
         {/* <Contact/> */}
+        {/* <LoginScreen/> */}
       </View>
     )
   }
