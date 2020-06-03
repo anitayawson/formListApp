@@ -19,15 +19,15 @@ export default function ContactsScreen() {
         {name: "Marilyn Uffort", number: "029-762-5353"},
         {name: "Davina Yawson", number: "026-909-0561"},
         {name: "John Mensah", number: "020-353-5355"},
-        {name: "André Bonzoe", number: "024-334-4567"},
+        {name: "André Bonzoe", number: "024-324-4567"},
         {name: "Mom Work", number: "020-123-4567"},
         {name: "Abena Kwakwa", number: "024-733-0000"},
         {name: "Nana Yaw Addo", number: "027-900-0222"},
         {name: "Dad UK", number: "027-121-1121"},
         {name: "Marilyn Uffort", number: "029-762-5353"},
         {name: "Davina Yawson", number: "026-909-0561"},
-        {name: "John Mensah", number: "020-353-5355"},
-        {name: "André Bonzoe", number: "024-334-4567"},
+        {name: "John Mensah", number: "020-353-5351"},
+        {name: "André Bonzoe", number: "024-331-4567"},
     ]
     
     return (

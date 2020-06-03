@@ -3,6 +3,7 @@ import { StyleSheet, Text, View, TextInput, TouchableOpacity, ScrollView, FlatLi
 import LoginScreen from './LoginScreen'
 import ContactsScreen from './ContactsScreen'
 import Contact from './components/Contact'
+import SignUpScreen from './SignupScreen'
 
 export class App extends Component {
   render() {
@@ -11,6 +12,7 @@ export class App extends Component {
         <ContactsScreen/>
         {/* <Contact/> */}
         {/* <LoginScreen/> */}
+        <SignUpScreen/>
       </View>
     )
   }
